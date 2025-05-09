@@ -48,17 +48,6 @@ This is a **Sentiment Analysis Web Application** built with **Streamlit**, desig
 ![App Screenshot](output2.png)
 ---
 
-## 📁 Repository Structure
-```
-├── app.py                 # Streamlit Web App
-├── text_sentiment_analysis_using_ml.ipynb         # Data preprocessing and model training
-├── log_reg_model.pkl      # Trained Logistic Regression model
-├── nb_model.pkl           # Trained Naive Bayes model (optional)
-├── vectorizer.pkl         # TF-IDF Vectorizer
-├── IMDB Dataset.csv       # Dataset (add to .gitignore if large)
-├── README.md              # Project documentation
-├── requirements.txt       # List of dependencies
-└── images/                                        # Project documentation
-```
+
 
 
